@@ -1,0 +1,9 @@
+1、编辑要定时的任务
+crontab -e
+
+分 时 日 月 年 
+*/1 * * * * sh /Users/oyo/Desktop/Node/crontab/log.sh
+每1分钟执行一下  log.sh 脚本
+
+2、查看已生效的定时任务
+crontab -l

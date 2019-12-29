@@ -1,0 +1,7 @@
+2019-10-08 16:39:31: GET 请求 /?error=1&name=zlh
+2019-10-08 16:39:31: GET 请求 /favicon.ico
+2019-10-08 16:39:35: GET 请求 /?error=1&name=zlh
+2019-10-08 16:39:35: GET 请求 /favicon.ico
+2019-10-08 16:41:56: GET 请求 /favicon.ico
+2019-10-08 16:42:00: GET 请求 /err
+2019-10-08 16:42:00: GET 请求 /favicon.ico

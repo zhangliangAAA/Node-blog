@@ -1,0 +1,32 @@
+2019-10-08 16:39:36: Error: 出错
+2019-10-08 16:39:36:     at Server.http.createServer (/Users/oyo/Desktop/Node/pm2-test/index.js:21:11)
+2019-10-08 16:39:36:     at Server.emit (events.js:182:13)
+2019-10-08 16:39:36:     at Server.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:166:33)
+2019-10-08 16:39:36:     at parserOnIncoming (_http_server.js:672:12)
+2019-10-08 16:39:36:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-10-08 16:39:38: Error: 出错
+2019-10-08 16:39:38:     at Server.http.createServer (/Users/oyo/Desktop/Node/pm2-test/index.js:21:11)
+2019-10-08 16:39:38:     at Server.emit (events.js:182:13)
+2019-10-08 16:39:38:     at Server.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:166:33)
+2019-10-08 16:39:38:     at parserOnIncoming (_http_server.js:672:12)
+2019-10-08 16:39:38:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-10-08 16:40:01: POST 请求 出错
+2019-10-08 16:40:16: POST 请求 出错
+2019-10-08 16:40:52: Error: 出错
+2019-10-08 16:40:52:     at Server.http.createServer (/Users/oyo/Desktop/Node/pm2-test/index.js:21:11)
+2019-10-08 16:40:52:     at Server.emit (events.js:182:13)
+2019-10-08 16:40:52:     at Server.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:166:33)
+2019-10-08 16:40:52:     at parserOnIncoming (_http_server.js:672:12)
+2019-10-08 16:40:52:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-10-08 16:40:57: Error: 出错
+2019-10-08 16:40:57:     at Server.http.createServer (/Users/oyo/Desktop/Node/pm2-test/index.js:21:11)
+2019-10-08 16:40:57:     at Server.emit (events.js:182:13)
+2019-10-08 16:40:57:     at Server.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:166:33)
+2019-10-08 16:40:57:     at parserOnIncoming (_http_server.js:672:12)
+2019-10-08 16:40:57:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-10-08 16:41:27: Error: 出错
+2019-10-08 16:41:27:     at Server.http.createServer (/Users/oyo/Desktop/Node/pm2-test/index.js:21:11)
+2019-10-08 16:41:27:     at Server.emit (events.js:182:13)
+2019-10-08 16:41:27:     at Server.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/@pm2/io/build/main/metrics/httpMetrics.js:166:33)
+2019-10-08 16:41:27:     at parserOnIncoming (_http_server.js:672:12)
+2019-10-08 16:41:27:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
